@@ -1,0 +1,3 @@
+Hello this is document text 
+from the project.
+first text file from console to Github.
